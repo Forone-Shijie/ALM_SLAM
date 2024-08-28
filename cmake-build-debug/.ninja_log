@@ -1,0 +1,4 @@
+# ninja log v6
+0	40	1723810427107804731	build.ninja	22bab2ee5db36630
+10	2297	1723799306206780179	CMakeFiles/cam_localization.dir/test/cam_localization.cpp.o	521b38e40e110176
+2298	2631	1723799308493920791	/home/sjzhang/Documents/softwares/L_slam/bin/cam_localization	ac027f0a01bfec40
